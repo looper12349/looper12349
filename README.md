@@ -1,7 +1,7 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Amritesh Indal</h1><br><h3 align="center">A passionate developer building AI-driven solutions</h3><br><br><p align="center">
 
-### 🚀 About Me<br>- 🔭 Founder of **[Dalovinium](https://dalovinium.in)** and **WiseLab**<br>- 🌱 Currently learning **AI/ML** and **Full Stack Development**<br>- 👨‍💻 First-year CS student at **Scaler School of Technology**<br>- 🎓 Pursuing B.Sc in Computer Science from **BITS Pilani**<br>- 💡 Passionate about revolutionizing education through technology<br>- 🎯 Building next-gen AI platforms for education and business
+### 🚀 About Me<br>- 🔭 Co-Founder of **[Dalovinium](https://dalovinium.in)** and **WiseLab**<br>- 🌱 Currently learning **AI/ML** and **Full Stack Development**<br>- 👨‍💻 First-year CS student at **Scaler School of Technology**<br>- 🎓 Pursuing B.Sc in Computer Science from **BITS Pilani**<br>- 💡 Passionate about revolutionizing education through technology<br>- 🎯 Building next-gen AI platforms for education and business
 
 
 ## 🌐 Socials:
