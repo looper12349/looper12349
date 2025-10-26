@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-I'm a **first-year Computer Science student** at **Scaler School of Technology** and **BITS Pilani**, passionate about building AI-driven solutions that make a real-world impact. Currently working as an **AI Engineer Intern at Scaler**, where I'm developing intelligent systems that enhance learning experiences for thousands of students.
+I'm a **third-year Computer Science student** at **Scaler School of Technology** and **BITS Pilani**, passionate about building AI-driven solutions that make a real-world impact. Currently working as an **AI Engineer Intern at Scaler**, where I'm developing intelligent systems that enhance learning experiences for thousands of students.
 
 - 🔭 **Currently Working On:** AI Marketing Automation Platform ([JOMO](https://jomobit.vercel.app))
 - 🌱 **Learning:** Advanced AI/ML, Multi-Agent Systems, and Cloud Architecture
