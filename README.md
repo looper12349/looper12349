@@ -23,7 +23,7 @@ I'm a **third-year Computer Science student** at **Scaler School of Technology**
 
 - 🔭 **Currently Working On:** AI Marketing Automation Platform ([JOMO](https://jomo.dazzeldigital.com))
 - 🌱 **Learning:** Advanced AI/ML, Multi-Agent Systems, and Cloud Architecture
-- 💼 **Experience:** Co-Founded [Dalovinium](https://dalovinium.in), built WiseLab.AI serving 110+ countries
+- 💼 **Experience:** Co-Founded [Dalovinium](https://dalovinium.vercel.app), built WiseLab.AI serving 110+ countries
 - 🎯 **Mission:** Revolutionizing education and business through intelligent automation
 - 📊 **Impact:** Empowering 100,000+ NPTEL learners with AI-driven video Q&A
 - ⚡ **Fun Fact:** Built 15+ production-grade applications before turning 20
