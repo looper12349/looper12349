@@ -21,7 +21,7 @@
 
 I'm a **third-year Computer Science student** at **Scaler School of Technology** and **BITS Pilani**, passionate about building AI-driven solutions that make a real-world impact. Currently working as an **AI Engineer Intern at Scaler**, where I'm developing intelligent systems that enhance learning experiences for thousands of students.
 
-- 🔭 **Currently Working On:** AI Marketing Automation Platform ([JOMO](https://jomobit.dazzeldigital.com))
+- 🔭 **Currently Working On:** AI Marketing Automation Platform ([JOMO](https://jomo.dazzeldigital.com))
 - 🌱 **Learning:** Advanced AI/ML, Multi-Agent Systems, and Cloud Architecture
 - 💼 **Experience:** Co-Founded [Dalovinium](https://dalovinium.in), built WiseLab.AI serving 110+ countries
 - 🎯 **Mission:** Revolutionizing education and business through intelligent automation
