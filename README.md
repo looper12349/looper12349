@@ -32,7 +32,7 @@ I'm a **third-year Computer Science student** at **Scaler School of Technology**
 
 ## 💼 Professional Experience
 
-### 🏢 AI Engineer Intern @ Scaler School of Technology
+### 🏢 AI Engineer Intern @ Scaler
 **Jan 2025 - Present | Bengaluru, Karnataka**
 
 - 🤖 Built AI-powered interview prep assistant analyzing **5,000+ student records**
